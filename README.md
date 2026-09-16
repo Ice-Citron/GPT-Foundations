@@ -31,24 +31,7 @@ Follow-along code and notes for two lectures in Andrej Karpathy's
 
 | File or folder | Content |
 |---|---|
-| `bigram.py` | Bigram baseline model from the lecture. |
-| `gpt.py` | The decoder Transformer from the lecture. |
-| `GPT-dev = Build from scratch.ipynb`, `(v2).ipynb` | Notebook versions with my notes and the 10k character sample. |
-| `GPT-dev - Tokenizer (Follow Along).ipynb` | The tokenizer lecture, followed step by step. |
-| `GPT-dev - Tokenizer [personal implementation] (base tokenizer).ipynb` | My own BPE tokenizer. |
-| `GPT-dev - Tokenizer [personal implementation] V2 + regex.ipynb` | My BPE tokenizer with GPT-4 style regex pre-tokenisation. |
-| `Original/`, `Original - Tokenizer/` | The lecture notebooks, unchanged. |
-| `Notes links.md`, `Notes links - Tokenizer.md` | Links to the chat transcripts used while I studied. |
 
-## Project timeline
-
-1. [GPTesla](https://github.com/Ice-Citron/GPTesla): first model trained
-   from scratch, a Python code generator.
-2. **GPT-dev** (this repository): the fundamentals, from the lecture.
-3. [nanoGPT-Valkyrie](https://github.com/Ice-Citron/nanoGPT-Valkyrie):
-   GPT-2 124M reproduction and the first LayerNorm experiment.
-4. [GPT-Valkyrie](https://github.com/Ice-Citron/GPT-Valkyrie): the research
-   on LN, RMSN, and PN, with 24 published checkpoints and the paper.
 
 ## Licence
 
